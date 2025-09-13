@@ -112,5 +112,3 @@ This system is designed to be scalable, reliable, and easily expandable in the f
 
 ---
 Thank You Guys For Reading it.
-~ Mohit
-
