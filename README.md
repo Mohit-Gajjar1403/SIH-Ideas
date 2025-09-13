@@ -1,7 +1,7 @@
 # SIH-Ideas
 Ideas-Exploring
 
-# P-1:
+# P-1: Gamified Environmental Education Platform for Schools and Colleges(25009)
 <img width="1493" height="914" alt="image" src="https://github.com/user-attachments/assets/2c65b8d0-400b-4eb8-bb92-88bf59381d22" />
 
 
