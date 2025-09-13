@@ -114,4 +114,5 @@ I recommend focusing on:
 
 ---
 
-👉 Would you like me to help you design a detailed Idea PPT structure using this refined concept, or help you draft a sample real-world task system design next?
+Thank you guys for reading it.
+~ Mohit
