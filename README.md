@@ -75,17 +75,6 @@ Here are **4 additional game ideas** you could implement in the **Gamified Envir
 
 ---
 
-### 🎮 1. **Eco-Quest Adventure**
-
-* **Idea**: A story-based adventure game where the player is an eco-warrior who solves environmental challenges at various levels.
-* **Gameplay**:
-
-  * Players navigate different ecosystems (forest, ocean, urban area).
-  * Complete tasks like cleaning plastic waste, planting trees, or managing water resources.
-  * Each task teaches a short environmental concept.
-* **Impact**: Helps students learn cause-effect relationships in environmental sustainability.
-
----
 
 ### 🧩 2. **Recycling Puzzle Game**
 
@@ -99,17 +88,6 @@ Here are **4 additional game ideas** you could implement in the **Gamified Envir
 
 ---
 
-### 🏆 3. **Green City Builder**
-
-* **Idea**: SimCity-style game where players design an eco-friendly city.
-* **Gameplay**:
-
-  * Players allocate resources to build parks, renewable energy plants, public transport, etc.
-  * Pollution and resource usage stats are tracked.
-  * Players are challenged to balance development with sustainability.
-* **Impact**: Provides insights into urban planning and sustainable development trade-offs.
-
----
 
 ### 🌳 4. **Eco-Trivia Challenge**
 
