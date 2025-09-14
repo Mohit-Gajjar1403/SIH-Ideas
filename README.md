@@ -76,7 +76,7 @@ Here are **4 additional game ideas** you could implement in the **Gamified Envir
 ---
 
 
-### 🧩 2. **Recycling Puzzle Game**
+### 🧩 1. **Recycling Puzzle Game**
 
 * **Idea**: A time-bound puzzle game where students sort different types of waste into correct recycling bins.
 * **Gameplay**:
@@ -89,7 +89,7 @@ Here are **4 additional game ideas** you could implement in the **Gamified Envir
 ---
 
 
-### 🌳 4. **Eco-Trivia Challenge**
+### 🌳 2. **Eco-Trivia Challenge**
 
 * **Idea**: A quiz-based multiplayer game where students compete by answering environmental trivia questions.
 * **Gameplay**:
